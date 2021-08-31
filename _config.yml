@@ -14,9 +14,11 @@ author: Marisa Lim
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Research: "research"
-  Writing: "writing"
+  About Me: "aboutme.md"
+    - Google Scholar: "https://scholar.google.com/citations?user=WycujMQAAAAJ&hl=en"
+    - Research Gate: "https://www.researchgate.net/profile/Marisa-Lim"
+  Research: "research.md"
+  Writing: "writing.md"
   
 
 # --- Logo --- #
@@ -41,7 +43,6 @@ social-network-links:
 #  email: "someone@example.com"
   linkedin: marisa-lim-723b5515b
   github: marisalim
-  google-scholar: https://scholar.google.com/citations?user=WycujMQAAAAJ&hl=en
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
