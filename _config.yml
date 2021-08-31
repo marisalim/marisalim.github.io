@@ -41,7 +41,7 @@ social-network-links:
 #  email: "someone@example.com"
   linkedin: marisa-lim-723b5515b
   github: marisalim
-  google-scholar: Marisa CW Lim
+  google-scholar: "Marisa CW Lim"
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -68,6 +68,7 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
+  rss: false
   twitter: false
   facebook: false
   linkedin: true
