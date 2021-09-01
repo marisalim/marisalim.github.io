@@ -34,7 +34,7 @@ title: Writing
 ---
 
 - Graham, C.H., S.R. Supp, D. Powers, P.A. Beck, **M.C.W. Lim**, A. Shankar, T. Cormier, S. Goetz, and S. Wethington. 2016. [Winter conditions influence biological responses of migrating hummingbirds](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.1470). Ecosphere.
-- Conroy, C. J., J.L. Patton, **M.C.W. Lim**, M. Phuong, B. Parmenter, and S. Höhna. 2016. [Following the rivers: historical reconstruction of California voles Microtus californicus (Rodentia: Muridae) in the deserts of eastern California](https://academic.oup.com/biolinnean/article/119/1/80/2701676?login=true). Biological Journal of the Linnean Society.
+- Conroy, C. J., J.L. Patton, **M.C.W. Lim**, M. Phuong, B. Parmenter, and S. Höhna. 2016. [Following the rivers: historical reconstruction of California voles *Microtus californicus* (Rodentia: Muridae) in the deserts of eastern California](https://academic.oup.com/biolinnean/article/119/1/80/2701676?login=true). Biological Journal of the Linnean Society.
 
 
 **2015**
