@@ -42,7 +42,7 @@ Our research has been featured on the [Understanding Evolution website](https://
 
 We conducted a statewide study of the phylogeographic distribution of California voles (*Microtus californicus*) to measure connectivity between populations and to discover the colonization history of voles in the deserts via ancient riparian corridors. This research also focused on measuring genetic structure amongst isolated desert populations of the Owens Valley vole (*M. c. vallicola*), a California Species of Special Concern, in collaboration with the California Department of Fish and Wildlife.
 
-## Climate change and genetic diversity in Tamias chipmunks
+## Climate change and genetic diversity in *Tamias* chipmunks
 
 ![](/assets/img/yosemite.jpg)
 
