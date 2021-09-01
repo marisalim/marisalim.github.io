@@ -16,7 +16,11 @@ We also use metabarcoding and whole genome shotgun sequencing to examine both th
 
 ## On the Evolution and Diversification of Hummingbirds
 
+![](/assets/img/jacobin.jpg)
+
 At first look, the harsh physical conditions of the Andes should impose serious physiological constraints on hummingbirds, but instead, they have a wide distribution and are abundant at high altitudes. Several studies suggest highland species are well adapted to these harsh conditions. Genetic adaptation is difficult to study in non-model organisms, especially as laboratory experiments are impractical for long-lived species. However, new genomic methods have revealed specific amino acid changes, genes, and biochemical pathways that are repeatedly involved in adaptation to survival in high altitude environments.
+
+<img align="left" height="270" width="200" src="/assets/img/jhered_cover.png">
 
 My dissertation research addressed two questions: 1) What is the genetic basis for high-altitude adaptation in Andean hummingbirds? And 2) Are the mechanisms the same across divergent taxa and populations?
 
@@ -24,7 +28,11 @@ Parallel molecular evolution can occur at any of several hierarchical levels of 
 
 These projects were in collaboration with [the Davalos lab](https://lmdavalos.github.io/), [the Graham lab](https://www.wsl.ch/en/employees/graham.html), [Dr. Chris Witt](https://www.unmornithology.org/home), and [Dr. Ke Bi](https://www.linkedin.com/in/ke-bi-6b513376/).
 
+*Cover photo by Brian Zwiebel - Sabrewing Nature Tours*
+
 ## Species delimitation in *Otospermophilus* ground squirrels
+
+![](/assets/img/beecheyi.jpg)
 
 We studied species delimitation and population demography of the *Otospermophilus* genus of ground squirrels. Accurate species designations are vital because their diagnosis informs us about species diversity and has practical applications in conservation biology, public health, and pest management. Our team generated genetic (mtDNA, microsatellite, nuclear DNA), morphological, and ecological data to study the evolutionary history of this genus. Our  results support the division of *O. beecheyi* into two species.
 
@@ -36,8 +44,11 @@ We conducted a statewide study of the phylogeographic distribution of California
 
 ## Climate change and genetic diversity in Tamias chipmunks
 
+![](/assets/img/yosemite.jpg)
+
 Over the last century, there has been ~3°C increase in temperature in Yosemite National Park. Ecological surveys conducted by the Grinnell Resurvey Project at the Museum of Vertebrate Zoology found that the high-elevation Alpine chipmunk’s (*Tamias alpinus*) range contracted through time, while the more widespread Lodgepole chipmunk (*T. speciosus*) maintained a stable range. Consistent with habitat fragmentation, our genetic results showed that modern populations of *T. alpinus* had greater population subdivision but lower overall genetic diversity compared to historic populations. In contrast, *T. speciosus* showed no significant changes in genetic diversity over time. This study provides empirical evidence that climate change affects genetic diversity and demonstrates the value of museum specimens for tracking changes in population demography through time.
 
 Our research has been featured on the [Understanding Evolution website](https://evolution.berkeley.edu/evolibrary/news/120301_chipmunks)!
+
 
 
