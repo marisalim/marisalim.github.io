@@ -20,7 +20,7 @@ We also use metabarcoding and whole genome shotgun sequencing to examine both th
 
 At first look, the harsh physical conditions of the Andes should impose serious physiological constraints on hummingbirds, but instead, they have a wide distribution and are abundant at high altitudes. Several studies suggest highland species are well adapted to these harsh conditions. Genetic adaptation is difficult to study in non-model organisms, especially as laboratory experiments are impractical for long-lived species. However, new genomic methods have revealed specific amino acid changes, genes, and biochemical pathways that are repeatedly involved in adaptation to survival in high altitude environments.
 
-<img align="left" height="270" width="200" src="/assets/img/jhered_cover.png">
+<img align="left" height="270" width="200" src="/assets/img/jhered_cover.png" style="float: right;">
 
 My dissertation research addressed two questions: 1) What is the genetic basis for high-altitude adaptation in Andean hummingbirds? And 2) Are the mechanisms the same across divergent taxa and populations?
 
