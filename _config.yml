@@ -14,7 +14,7 @@ author: Marisa Lim
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: 
+  About: 
     - About Me: "aboutme"
     - GitHub: "https://github.com/marisalim/"
     - LinkedIN: "https://www.linkedin.com/in/marisa-lim-723b5515b/"
