@@ -16,6 +16,8 @@ author: Marisa Lim
 navbar-links:
   About Me: 
     - About Me: "aboutme"
+    - GitHub: "https://github.com/marisalim/"
+    - LinkedIN: "https://www.linkedin.com/in/marisa-lim-723b5515b/"
     - Google Scholar: "https://scholar.google.com/citations?user=WycujMQAAAAJ&hl=en"
     - Research Gate: "https://www.researchgate.net/profile/Marisa-Lim"
   Research: "research"
@@ -228,6 +230,7 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - _posts/
 
 plugins:
   - jekyll-paginate
