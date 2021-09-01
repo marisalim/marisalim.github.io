@@ -6,7 +6,8 @@ title: Writing
 **2021**
 ---
 
-- Invited blog post: [A biotech career panel in the DIB lab](http://ivory.idyll.org/blog/2021-biotech-career-panel.html)
+- Invited blog posts:
+  - [A biotech career panel in the DIB lab](http://ivory.idyll.org/blog/2021-biotech-career-panel.html)
 - Vasiljevic, N., **M.C.W. Lim**, E. Humble, A. Seah, A. Kratzer, N. Morf, S. Prost, and R. Ogden. 2021. [Developmental validation of Oxford Nanopore Technology MinION sequence data and the NGSpeciesID bioinformatic pipeline for forensic genetic species identification](https://doi.org/10.1016/j.fsigen.2021.102493). Forensic Science International: Genetics.
 - **Lim, M.C.W.**, K. Bi, C.C. Witt, C.H. Graham, and L.M. Dávalos. 2021. [Pervasive genomic signatures of local adaptation to altitude across highland specialist Andean hummingbird populations](https://doi.org/10.1093/jhered/esab008). Journal of Heredity. 
 - Sahlin, K., **M.C.W. Lim**, and S. Prost. 2021. [NGSpeciesID: DNA barcode and amplicon consensus generation from long-read sequencing data](https://doi.org/10.1002/ece3.7146). Ecology and Evolution. 
