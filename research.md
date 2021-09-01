@@ -28,7 +28,7 @@ Parallel molecular evolution can occur at any of several hierarchical levels of 
 
 These projects were in collaboration with [the Dávalos lab](https://lmdavalos.github.io/), [the Graham lab](https://www.wsl.ch/en/employees/graham.html), [Dr. Chris Witt](https://www.unmornithology.org/home), and [Dr. Ke Bi](https://www.linkedin.com/in/ke-bi-6b513376/).
 
-*Cover photo by Brian Zwiebel - Sabrewing Nature Tours*
+*Cover photo of a sparkling violetear (*Colibri coruscans*) by Brian Zwiebel - Sabrewing Nature Tours*
 
 ## Species delimitation in *Otospermophilus* ground squirrels
 
@@ -36,7 +36,7 @@ These projects were in collaboration with [the Dávalos lab](https://lmdavalos.g
 
 We studied species delimitation and population demography of the *Otospermophilus* genus of ground squirrels. Accurate species designations are vital because their diagnosis informs us about species diversity and has practical applications in conservation biology, public health, and pest management. Our team generated genetic (mtDNA, microsatellite, nuclear DNA), morphological, and ecological data to study the evolutionary history of this genus. Our  results support the division of *O. beecheyi* into two species.
 
-Our research has been featured on the [Understanding Evolution website](https://evolution.berkeley.edu/evolibrary/news/120201_tinychameleons)! 
+Our research has been featured on the [Understanding Evolution website](https://evolution.berkeley.edu/evolibrary/news/120201_tinychameleons)!
 
 ## Population connectivity and desert colonization of California voles
 
@@ -49,6 +49,3 @@ We conducted a statewide study of the phylogeographic distribution of California
 Over the last century, there has been ~3°C increase in temperature in Yosemite National Park. Ecological surveys conducted by the Grinnell Resurvey Project at the Museum of Vertebrate Zoology found that the high-elevation Alpine chipmunk’s (*Tamias alpinus*) range contracted through time, while the more widespread Lodgepole chipmunk (*T. speciosus*) maintained a stable range. Consistent with habitat fragmentation, our genetic results showed that modern populations of *T. alpinus* had greater population subdivision but lower overall genetic diversity compared to historic populations. In contrast, *T. speciosus* showed no significant changes in genetic diversity over time. This study provides empirical evidence that climate change affects genetic diversity and demonstrates the value of museum specimens for tracking changes in population demography through time.
 
 Our research has been featured on the [Understanding Evolution website](https://evolution.berkeley.edu/evolibrary/news/120301_chipmunks)!
-
-
-
