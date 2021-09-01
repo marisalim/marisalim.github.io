@@ -14,12 +14,12 @@ author: Marisa Lim
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme.md"
+  About Me: "aboutme"
     - Google Scholar: "https://scholar.google.com/citations?user=WycujMQAAAAJ&hl=en"
     - Research Gate: "https://www.researchgate.net/profile/Marisa-Lim"
-  Research: "research.md"
-  Writing: "writing.md"
-  
+  Research: "research"
+  Writing: "writing"
+  Training: "training"
 
 # --- Logo --- #
 
