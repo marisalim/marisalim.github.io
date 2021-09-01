@@ -26,7 +26,7 @@ My dissertation research addressed two questions: 1) What is the genetic basis f
 
 Parallel molecular evolution can occur at any of several hierarchical levels of biological organization. Collectively, my results for Andean hummingbird species and populations indicate there is predictability in the genetic mechanisms of adaptation to high altitude, though there are a variety of adaptive paths. By investigating how organisms evolved to thrive in challenging environmental conditions, we can illuminate the mechanisms of evolution and refine future study of the units on which evolution acts.
 
-These projects were in collaboration with [the Davalos lab](https://lmdavalos.github.io/), [the Graham lab](https://www.wsl.ch/en/employees/graham.html), [Dr. Chris Witt](https://www.unmornithology.org/home), and [Dr. Ke Bi](https://www.linkedin.com/in/ke-bi-6b513376/).
+These projects were in collaboration with [the Dávalos lab](https://lmdavalos.github.io/), [the Graham lab](https://www.wsl.ch/en/employees/graham.html), [Dr. Chris Witt](https://www.unmornithology.org/home), and [Dr. Ke Bi](https://www.linkedin.com/in/ke-bi-6b513376/).
 
 *Cover photo by Brian Zwiebel - Sabrewing Nature Tours*
 
