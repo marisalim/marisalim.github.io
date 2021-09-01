@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-<img align="left" style="float: left;" src="/assets/img/avatar.jpg" height="200" width="280">
+<img align="left" height="200" width="280" src="/assets/img/avatar.jpg" style="float: left;">
 
 I am currently a bioinformatics training postdoc at UC Davis, where I am developing bioinformatics and biomedical data science training materials for the NIH Common Fund Data Ecosystem.
 
