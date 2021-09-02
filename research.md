@@ -32,6 +32,10 @@ Parallel molecular evolution can occur at any of several hierarchical levels of 
 
 These projects were done in collaboration with [the Dávalos lab](https://lmdavalos.github.io/), [the Graham lab](https://www.wsl.ch/en/employees/graham.html), [Dr. Chris Witt](https://www.unmornithology.org/home), and [Dr. Ke Bi](https://www.linkedin.com/in/ke-bi-6b513376/).
 
+<details>
+test
+</details>
+
 *Relevant publications:*
 - **Lim, M.C.W.**, K. Bi, C.C. Witt, C.H. Graham, and L.M. Dávalos. 2021. [Pervasive genomic signatures of local adaptation to altitude across highland specialist Andean hummingbird populations](https://doi.org/10.1093/jhered/esab008). Journal of Heredity.
   - Featured on Cover! Photo of a sparkling violetear (*Colibri coruscans*) by Brian Zwiebel - Sabrewing Nature Tours
