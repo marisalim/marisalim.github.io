@@ -32,15 +32,16 @@ Parallel molecular evolution can occur at any of several hierarchical levels of 
 
 These projects were done in collaboration with [the Dávalos lab](https://lmdavalos.github.io/), [the Graham lab](https://www.wsl.ch/en/employees/graham.html), [Dr. Chris Witt](https://www.unmornithology.org/home), and [Dr. Ke Bi](https://www.linkedin.com/in/ke-bi-6b513376/).
 
-<details>
-test
-</details>
-
+<Click for more info!>
 *Relevant publications:*
 - **Lim, M.C.W.**, K. Bi, C.C. Witt, C.H. Graham, and L.M. Dávalos. 2021. [Pervasive genomic signatures of local adaptation to altitude across highland specialist Andean hummingbird populations](https://doi.org/10.1093/jhered/esab008). Journal of Heredity.
   - Featured on Cover! Photo of a sparkling violetear (*Colibri coruscans*) by Brian Zwiebel - Sabrewing Nature Tours
 - **Lim, M.C.W.**, C.C. Witt, C.H. Graham, and L.M. Dávalos. 2019. [Parallel molecular evolution in pathways, genes, and sites in high-elevation hummingbirds revealed by comparative transcriptomics](https://doi.org/10.1093/gbe/evz101). Genome Biol Evol.
   - Highlight article on our GBE paper: McGrath, C. 2019. [Highlight: Andean hummingbirds reveal distinct evolutionary pathways to high-altitude adaptation](https://doi.org/10.1093/gbe/evz126). Genome Biol Evol.
+
+*This work was funded by:*
+- 
+</Click for more info!>
 
 ## Species delimitation in *Otospermophilus* ground squirrels
 
