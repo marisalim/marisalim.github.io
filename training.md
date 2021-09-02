@@ -3,7 +3,7 @@ layout: page
 title: Training
 ---
 
-## DIB lab and the NIH CFDE
+## DIB lab and the NIH CFDE workshops
 
 As a member of the [Lab for Data Intensive Biology](http://ivory.idyll.org/lab/) and the [National Institutes of Health (NIH) Common Fund Data Ecosystem (CFDE) Training and Engagement Team](https://www.nih-cfde.org/), my role has been to co-create a training program to equip researchers with computational skills to better find, access, interoperate, and reuse data and tools. Check out our lessons and resources!
 
@@ -17,7 +17,7 @@ For Stony Brook University grad students, I co-taught:
 - Advanced Python
 - Introduction to Python and Plotting in Python
 
-## Other Teaching Opps
+## Undergraduate Courses
 
 Teaching Assistant at Stony Brook University:
 - Evolution
