@@ -7,7 +7,7 @@ title: About me
 
 Hello! My research interests have covered a range of topics from conservation genetics and high-elevation adaptation to species identification tool optimization.
 
-I am currently a bioinformatics training postdoc at UC Davis, where I develop bioinformatics and biomedical data science training materials for the NIH Common Fund Data Ecosystem. I spend my time thinking about how to improve computational biology training for researchers!
+I am currently a bioinformatics training postdoc at UC Davis, where I develop bioinformatics and biomedical data science training materials for the NIH Common Fund Data Ecosystem. I spend my time trying to improve computational biology training for researchers! :)
 
 Before this...
 - I was a bioinformaticist at the Bronx Zoo with the Wildlife Conservation Society's [Zoological Health Program](https://oneworldonehealth.wcs.org/Initiatives/Zoological-Health-Program.aspx) and [Molecular Diagnostics Program](https://oneworldonehealth.wcs.org/Initiatives/WCS-Molecular-Program.aspx).  
