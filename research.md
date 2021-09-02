@@ -32,16 +32,27 @@ Parallel molecular evolution can occur at any of several hierarchical levels of 
 
 These projects were done in collaboration with [the Dávalos lab](https://lmdavalos.github.io/), [the Graham lab](https://www.wsl.ch/en/employees/graham.html), [Dr. Chris Witt](https://www.unmornithology.org/home), and [Dr. Ke Bi](https://www.linkedin.com/in/ke-bi-6b513376/).
 
-<Click for more info!>
-*Relevant publications:*
+Click for more info!
+
+<info>
+*Relevant media:*
 - **Lim, M.C.W.**, K. Bi, C.C. Witt, C.H. Graham, and L.M. Dávalos. 2021. [Pervasive genomic signatures of local adaptation to altitude across highland specialist Andean hummingbird populations](https://doi.org/10.1093/jhered/esab008). Journal of Heredity.
-  - Featured on Cover! Photo of a sparkling violetear (*Colibri coruscans*) by Brian Zwiebel - Sabrewing Nature Tours
+  - We were featured as Editor's Choice for the May 2021 issue! Cover photo of a sparkling violetear (*Colibri coruscans*) by Brian Zwiebel - Sabrewing Nature Tours
 - **Lim, M.C.W.**, C.C. Witt, C.H. Graham, and L.M. Dávalos. 2019. [Parallel molecular evolution in pathways, genes, and sites in high-elevation hummingbirds revealed by comparative transcriptomics](https://doi.org/10.1093/gbe/evz101). Genome Biol Evol.
   - Highlight article on our GBE paper: McGrath, C. 2019. [Highlight: Andean hummingbirds reveal distinct evolutionary pathways to high-altitude adaptation](https://doi.org/10.1093/gbe/evz126). Genome Biol Evol.
+  - Honorable Mention for Best Graduate Paper published in 2019! :)
 
-*This work was funded by:*
-- 
-</Click for more info!>
+*Graduate student research funding:*
+- American Genetic Association Evolutionary, Ecological, or Conservation Genomics Award
+- American Museum of Natural History Frank M. Chapman Memorial Fund
+- American Society of Naturalists Student Research Award
+- National Science Foundation Doctoral Dissertation Improvement Grant
+- Wilson Ornithological Society Research Grant
+- American Ornithologists’ Union Research Award
+- Stony Brook University Dept. of Ecology and Evolution Slobodkin Fund, Williams Fund
+- National Science Foundation Graduate Research Fellowship
+
+</info>
 
 ## Species delimitation in *Otospermophilus* ground squirrels
 
