@@ -11,10 +11,13 @@ The [Molecular Lab team](https://oneworldonehealth.wcs.org/Initiatives/WCS-Molec
 
 The illegal wildlife trade is a [~$7-23 billion industry](https://www.awf.org/news/world-wildlife-day-highlights-severity-wildlife-crime) with links to terrorism and drug and human trafficking. Species identification from processed products (e.g., fin, shark liver oil) or mixed species samples of illegally caught species is difficult and complicates law enforcement, but recent advances in portable lab equipment and bioinformatics software can help to address these challenges. I helped to develop field- and user-friendly bioinformatic analysis pipelines for species ID using the Oxford Nanopore Technologies MinION portable sequencer.
 
+Click for more info!
+<details>
 *Relevant publications:*
 - Vasiljevic, N., **M.C.W. Lim**, E. Humble, A. Seah, A. Kratzer, N. Morf, S. Prost, and R. Ogden. 2021. [Developmental validation of Oxford Nanopore Technology MinION sequence data and the NGSpeciesID bioinformatic pipeline for forensic genetic species identification](https://doi.org/10.1016/j.fsigen.2021.102493). Forensic Science International: Genetics.
 - Sahlin, K., **M.C.W. Lim**, and S. Prost. 2021. [NGSpeciesID: DNA barcode and amplicon consensus generation from long-read sequencing data](https://doi.org/10.1002/ece3.7146). Ecology and Evolution.
 - Seah, A*, **M.C.W. Lim**\*, D. McAloose, S. Prost, T.A. Seimon. 2020. [MinION-based DNA barcoding of preserved and non-invasively collected wildlife samples](https://doi.org/10.3390/genes11040445). Genes. *Contributed equally.
+</details>
 
 We also used metabarcoding and whole genome shotgun sequencing to examine both the microbial and Eukaryotic communities at several high-altitude aquatic sites. Montane environments, with their extreme conditions, offer the perfect opportunity to study [ecosystems experiencing climate change](https://newsroom.wcs.org/News-Releases/articleType/ArticleView/articleId/12472/Wildlife-Conservation-Society-Molecular-Biologist-Tracie-Seimon-Participates-in-Trailblazing-National-Geographic-and-Rolex-Expedition-to-Mt-Everest.aspx). The remote biological communities of the Himalayas are difficult to study and few genetic studies have been carried out to document their biodiversity across the Tree of Life.
 
@@ -35,7 +38,6 @@ These projects were done in collaboration with [the Dávalos lab](https://lmdava
 Click for more info!
 
 <details>
-
 *Relevant media:*
 
 - **Lim, M.C.W.**, K. Bi, C.C. Witt, C.H. Graham, and L.M. Dávalos. 2021. [Pervasive genomic signatures of local adaptation to altitude across highland specialist Andean hummingbird populations](https://doi.org/10.1093/jhered/esab008). Journal of Heredity.
@@ -54,7 +56,6 @@ Click for more info!
 - American Ornithologists’ Union Research Award
 - Stony Brook University Dept. of Ecology and Evolution Slobodkin Fund, Williams Fund
 - National Science Foundation Graduate Research Fellowship
-
 </details>
 
 ## Species delimitation in *Otospermophilus* ground squirrels
@@ -63,17 +64,24 @@ Click for more info!
 
 We studied species delimitation and population demography of the *Otospermophilus* genus of ground squirrels. Accurate species designations are vital because their diagnosis informs us about species diversity and has practical applications in conservation biology, public health, and pest management. Our team generated genetic (mtDNA, microsatellite, nuclear DNA), morphological, and ecological data to study the evolutionary history of this genus. Our  results support the division of *O. beecheyi* into two species.
 
+Click for more info!
+
+<details>
 *Relevant media:*
 - Phuong, M.A., **M.C.W. Lim**, D.R. Wait, K.C. Rowe, and C. Moritz. 2014. [Delimiting species in the genus, *Otospermophilus* (Rodentia: Sciuridae) using genetics, ecology, and morphology](https://academic.oup.com/biolinnean/article/113/4/1136/2416020?login=true). Biological Journal of the Linnean Society.
 - Featured on [Understanding Evolution website](https://evolution.berkeley.edu/evolibrary/news/120201_tinychameleons)
+</details>
 
 ## Population connectivity and desert colonization of California voles
 
 We conducted a statewide study of the phylogeographic distribution of California voles (*Microtus californicus*) to measure connectivity between populations and to discover the colonization history of voles in the deserts via ancient riparian corridors. This research also focused on measuring genetic structure amongst isolated desert populations of the Owens Valley vole (*M. c. vallicola*), a California Species of Special Concern, in collaboration with the California Department of Fish and Wildlife.
 
+Click for more info!
+<details>
 *Relevant publications:*
 - Conroy, C. J., J.L. Patton, **M.C.W. Lim**, M. Phuong, B. Parmenter, and S. Höhna. 2016. [Following the rivers: historical reconstruction of California voles *Microtus californicus* (Rodentia: Muridae) in the deserts of eastern California](https://academic.oup.com/biolinnean/article/119/1/80/2701676?login=true). Biological Journal of the Linnean Society.
 - Parmenter, B.E., **M.C.W. Lim**, Y. Chen, C.J. Conroy, and B.F.M. Olechnowski. 2015. [Microsatellite variation in the Owens Valley vole: *Microtus californicus vallicola*](https://bioone.org/journals/the-southwestern-naturalist/volume-60/issue-2-3/SWNAT-D-14-0004.1/Microsatellite-variation-in-the-Owens-Valley-Vole-iMicrotus-californicus-vallicola/10.1894/SWNAT-D-14-0004.1.short). Southwestern Naturalist.
+</details>
 
 ## Climate change and genetic diversity in *Tamias* chipmunks
 
@@ -81,6 +89,9 @@ We conducted a statewide study of the phylogeographic distribution of California
 
 Over the last century, there has been ~3°C increase in temperature in Yosemite National Park. Ecological surveys conducted by the Grinnell Resurvey Project at the Museum of Vertebrate Zoology found that the high-elevation Alpine chipmunk’s (*Tamias alpinus*) range contracted through time, while the more widespread Lodgepole chipmunk (*T. speciosus*) maintained a stable range. Consistent with habitat fragmentation, our genetic results showed that modern populations of *T. alpinus* had greater population subdivision but lower overall genetic diversity compared to historic populations. In contrast, *T. speciosus* showed no significant changes in genetic diversity over time. This study provides empirical evidence that climate change affects genetic diversity and demonstrates the value of museum specimens for tracking changes in population demography through time.
 
+Click for more info!
+<details>
 *Relevant media:*
 - Rubidge, E.M., J.L. Patton, **M. Lim**, A.C. Burton, J.S. Brashares, and C.C. Moritz. 2012. [Climate-induced range shift drives genetic erosion in an alpine mammal](https://www.nature.com/articles/nclimate1415). Nature Climate Change.
 - Featured on [Understanding Evolution website](https://evolution.berkeley.edu/evolibrary/news/120301_chipmunks)
+</details>
