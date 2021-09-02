@@ -34,7 +34,8 @@ These projects were done in collaboration with [the Dávalos lab](https://lmdava
 
 Click for more info!
 
-<info>
+<details>
+
 *Relevant media:*
 - **Lim, M.C.W.**, K. Bi, C.C. Witt, C.H. Graham, and L.M. Dávalos. 2021. [Pervasive genomic signatures of local adaptation to altitude across highland specialist Andean hummingbird populations](https://doi.org/10.1093/jhered/esab008). Journal of Heredity.
   - We were featured as Editor's Choice for the May 2021 issue! Cover photo of a sparkling violetear (*Colibri coruscans*) by Brian Zwiebel - Sabrewing Nature Tours
@@ -52,7 +53,7 @@ Click for more info!
 - Stony Brook University Dept. of Ecology and Evolution Slobodkin Fund, Williams Fund
 - National Science Foundation Graduate Research Fellowship
 
-</info>
+</details>
 
 ## Species delimitation in *Otospermophilus* ground squirrels
 
