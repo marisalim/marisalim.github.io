@@ -12,13 +12,12 @@ The [Molecular Lab team](https://oneworldonehealth.wcs.org/Initiatives/WCS-Molec
 The illegal wildlife trade is a [~$7-23 billion industry](https://www.awf.org/news/world-wildlife-day-highlights-severity-wildlife-crime) with links to terrorism and drug and human trafficking. Species identification from processed products (e.g., fin, shark liver oil) or mixed species samples of illegally caught species is difficult and complicates law enforcement, but recent advances in portable lab equipment and bioinformatics software can help to address these challenges. I helped to develop field- and user-friendly bioinformatic analysis pipelines for species ID using the Oxford Nanopore Technologies MinION portable sequencer.
 
 <details>
+<summary>More info!</summary>
+<br>
 *Relevant media:*
-
-- Vasiljevic, N., **M.C.W. Lim**, E. Humble, A. Seah, A. Kratzer, N. Morf, S. Prost, and R. Ogden. 2021. [Developmental validation of Oxford Nanopore Technology MinION sequence data and the NGSpeciesID bioinformatic pipeline for forensic genetic species identification](https://doi.org/10.1016/j.fsigen.2021.102493). Forensic Science International: Genetics.
-
-- Sahlin, K., **M.C.W. Lim**, and S. Prost. 2021. [NGSpeciesID: DNA barcode and amplicon consensus generation from long-read sequencing data](https://doi.org/10.1002/ece3.7146). Ecology and Evolution.
-
-- Seah, A*, **M.C.W. Lim**\*, D. McAloose, S. Prost, T.A. Seimon. 2020. [MinION-based DNA barcoding of preserved and non-invasively collected wildlife samples](https://doi.org/10.3390/genes11040445). Genes. *Contributed equally.
+  - Vasiljevic, N., **M.C.W. Lim**, E. Humble, A. Seah, A. Kratzer, N. Morf, S. Prost, and R. Ogden. 2021. [Developmental validation of Oxford Nanopore Technology MinION sequence data and the NGSpeciesID bioinformatic pipeline for forensic genetic species identification](https://doi.org/10.1016/j.fsigen.2021.102493). Forensic Science International: Genetics.
+  - Sahlin, K., **M.C.W. Lim**, and S. Prost. 2021. [NGSpeciesID: DNA barcode and amplicon consensus generation from long-read sequencing data](https://doi.org/10.1002/ece3.7146). Ecology and Evolution.
+  - Seah, A*, **M.C.W. Lim**\*, D. McAloose, S. Prost, T.A. Seimon. 2020. [MinION-based DNA barcoding of preserved and non-invasively collected wildlife samples](https://doi.org/10.3390/genes11040445). Genes. *Contributed equally.
 </details>
 
 We also used metabarcoding and whole genome shotgun sequencing to examine both the microbial and Eukaryotic communities at several high-altitude aquatic sites. Montane environments, with their extreme conditions, offer the perfect opportunity to study [ecosystems experiencing climate change](https://newsroom.wcs.org/News-Releases/articleType/ArticleView/articleId/12472/Wildlife-Conservation-Society-Molecular-Biologist-Tracie-Seimon-Participates-in-Trailblazing-National-Geographic-and-Rolex-Expedition-to-Mt-Everest.aspx). The remote biological communities of the Himalayas are difficult to study and few genetic studies have been carried out to document their biodiversity across the Tree of Life.
