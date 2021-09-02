@@ -3,6 +3,8 @@ layout: page
 title: Writing
 ---
 
+[Publications](#publications) | [Other](#other)
+
 ## Publications
 
 1. Potter, J.H.T., R. Drinkwater, K.T.J. Davies, N. Nesi, **M.C.W. Lim**, L.R. Yohe, H. Chi, X. Zhang, I. Levantis, B.K. Lim, C.C. Witt, G. Tsagkogeorga, M. dos Reis, Y. Liu, W. Furey, M.J. Whitley, D. Aksentijevic, L.M. Dávalos, S.J. Rossiter. 2021. [Nectar-feeding bats and birds show parallel molecular adaptations in sugar metabolism enzymes](https://www.sciencedirect.com/science/article/pii/S0960982221011222?dgcid=coauthor). Current Biology.
@@ -19,6 +21,6 @@ title: Writing
 1. Phuong, M.A., **M.C.W. Lim**, D.R. Wait, K.C. Rowe, and C. Moritz. 2014. [Delimiting species in the genus, *Otospermophilus* (Rodentia: Sciuridae) using genetics, ecology, and morphology](https://academic.oup.com/biolinnean/article/113/4/1136/2416020?login=true). Biological Journal of the Linnean Society.
 1. Rubidge, E.M., J.L. Patton, **M. Lim**, A.C. Burton, J.S. Brashares, and C.C. Moritz. 2012. [Climate-induced range shift drives genetic erosion in an alpine mammal](https://www.nature.com/articles/nclimate1415). Nature Climate Change.
 
-## Invited blog posts
+## Other
 
-- [A biotech career panel in the DIB lab](http://ivory.idyll.org/blog/2021-biotech-career-panel.html)
+- Invited blog post: [A biotech career panel in the DIB lab](http://ivory.idyll.org/blog/2021-biotech-career-panel.html)
