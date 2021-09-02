@@ -37,6 +37,7 @@ Click for more info!
 <details>
 
 *Relevant media:*
+
 - **Lim, M.C.W.**, K. Bi, C.C. Witt, C.H. Graham, and L.M. Dávalos. 2021. [Pervasive genomic signatures of local adaptation to altitude across highland specialist Andean hummingbird populations](https://doi.org/10.1093/jhered/esab008). Journal of Heredity.
   - We were featured as Editor's Choice for the May 2021 issue! Cover photo of a sparkling violetear (*Colibri coruscans*) by Brian Zwiebel - Sabrewing Nature Tours
 - **Lim, M.C.W.**, C.C. Witt, C.H. Graham, and L.M. Dávalos. 2019. [Parallel molecular evolution in pathways, genes, and sites in high-elevation hummingbirds revealed by comparative transcriptomics](https://doi.org/10.1093/gbe/evz101). Genome Biol Evol.
@@ -44,6 +45,7 @@ Click for more info!
   - Honorable Mention for Best Graduate Paper published in 2019! :)
 
 *Graduate student research funding:*
+
 - American Genetic Association Evolutionary, Ecological, or Conservation Genomics Award
 - American Museum of Natural History Frank M. Chapman Memorial Fund
 - American Society of Naturalists Student Research Award
