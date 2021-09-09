@@ -23,4 +23,7 @@ title: Writing
 
 ## Other
 
-- Invited blog post: [A biotech career panel in the DIB lab](http://ivory.idyll.org/blog/2021-biotech-career-panel.html)
+*Invited blog post*
+
+- [A biotech career panel in the DIB lab](http://ivory.idyll.org/blog/2021-biotech-career-panel.html)
+- [Behind the Science: Bringing a study of genetic adaptation in highland hummingbirds to print](https://blog.theaga.org/behind-the-science-bringing-a-study-of-genetic-adaptation-in-highland-hummingbirds-to-print/)
