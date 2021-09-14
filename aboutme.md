@@ -5,7 +5,7 @@ title: About me
 
 <img height="140" width="190" src="/assets/img/avatar.jpg" style="float: right;">
 
-Hello! My research interests have covered a range of topics from conservation genetics and high-elevation adaptation to species identification tool optimization.
+Hello! My research interests have covered a range of topics from conservation genetics and high-elevation adaptation to species identification tool optimization and science communication. I am currently a Scientific Writer in Bioinformatics at [10x Genomics](https://www.10xgenomics.com/)!
 
 Before this...
 - Bioinformatics training postdoc at UC Davis in [Dr. C. Titus Brown's lab](http://ivory.idyll.org/lab/), developing bioinformatics and biomedical data science training materials for the [NIH Common Fund Data Ecosystem](https://www.nih-cfde.org/) to improve computational biology training for researchers! :)
