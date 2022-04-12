@@ -7,6 +7,7 @@ title: Writing
 
 ## Publications
 
+1. Pomerantz, A., K. Sahlin, N. Vasiljevic, A. Seah, **M.C.W. Lim**, E. Humble, S. Kennedy, H. Krehenwinkel, S. Winter, R. Ogden and S. Prost. 2022. [Rapid in situ identification of biological specimens via DNA amplicon sequencing using miniaturized laboratory equipment](https://www.nature.com/articles/s41596-022-00682-x). Nature Protocols.
 1. **Lim, M.C.W.**\*, A. Parigi\*, S. Canchi\*, J. Sanchez, J. Walter, 
 A. Charbonneau, and C.T. Brown.  2021. [Virtual training on virtual 
 environments: an online open-source introduction to 
