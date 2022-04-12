@@ -21,7 +21,7 @@ The illegal wildlife trade is a [~$7-23 billion industry](https://www.awf.org/ne
 
 We also used metabarcoding and whole genome shotgun sequencing to examine both the microbial and Eukaryotic communities at several high-altitude aquatic sites. Montane environments, with their extreme conditions, offer the perfect opportunity to study [ecosystems experiencing climate change](https://newsroom.wcs.org/News-Releases/articleType/ArticleView/articleId/12472/Wildlife-Conservation-Society-Molecular-Biologist-Tracie-Seimon-Participates-in-Trailblazing-National-Geographic-and-Rolex-Expedition-to-Mt-Everest.aspx). The remote biological communities of the Himalayas are difficult to study and few genetic studies have been carried out to document their biodiversity across the Tree of Life.
 
-## On the Evolution and Diversification of Hummingbirds
+## On the evolution and diversification of hummingbirds
 
 ![](/assets/img/jacobin.jpg)
 
