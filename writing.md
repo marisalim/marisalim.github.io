@@ -7,7 +7,7 @@ title: Writing
 
 ## Publications
 
-1. **Lim, M.C.W.**, A. Seimon, B. Nightingale, C.C.Y. Xu, S.R.P. Halloy, A.J. Solon, N.B. Dragone, S.K. Schmidt, A. Tait, S. Elvin, A.C. Elmore, and T.A. Seimon. 2022. [Estimating biodiversity across the tree of life on Mount Everest’s southern flank with environmental DNA](https://www.cell.com/iscience/fulltext/S2589-0042(22)01120-8#relatedArticles). iScience.
+1. **Lim, M.C.W.**, A. Seimon, B. Nightingale, C.C.Y. Xu, S.R.P. Halloy, A.J. Solon, N.B. Dragone, S.K. Schmidt, A. Tait, S. Elvin, A.C. Elmore, and T.A. Seimon. 2022. [Estimating biodiversity across the tree of life on Mount Everest’s southern flank with environmental DNA](https://doi.org/10.1016/j.isci.2022.104848). iScience.
 1. Pomerantz, A., K. Sahlin, N. Vasiljevic, A. Seah, **M.C.W. Lim**, E. Humble, S. Kennedy, H. Krehenwinkel, S. Winter, R. Ogden and S. Prost. 2022. [Rapid in situ identification of biological specimens via DNA amplicon sequencing using miniaturized laboratory equipment](https://www.nature.com/articles/s41596-022-00682-x). Nature Protocols.
 1. **Lim, M.C.W.**\*, A. Parigi\*, S. Canchi\*, J. Sanchez, J. Walter, 
 A. Charbonneau, and C.T. Brown.  2021. [Virtual training on virtual 
