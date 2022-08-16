@@ -21,6 +21,11 @@ The illegal wildlife trade is a [~$7-23 billion industry](https://www.awf.org/ne
 
 We also used metabarcoding and whole genome shotgun sequencing to examine both the microbial and Eukaryotic communities at several high-altitude aquatic sites. Montane environments, with their extreme conditions, offer the perfect opportunity to study [ecosystems experiencing climate change](https://newsroom.wcs.org/News-Releases/articleType/ArticleView/articleId/12472/Wildlife-Conservation-Society-Molecular-Biologist-Tracie-Seimon-Participates-in-Trailblazing-National-Geographic-and-Rolex-Expedition-to-Mt-Everest.aspx). The remote biological communities of the Himalayas are difficult to study and few genetic studies have been carried out to document their biodiversity across the Tree of Life.
 
+*Relevant media:*
+
+- **Lim, M.C.W.**, A. Seimon, B. Nightingale, C.C.Y. Xu, S.R.P. Halloy, A.J. Solon, N.B. Dragone, S.K. Schmidt, A. Tait, S. Elvin, A.C. Elmore, and T.A. Seimon. 2022. [Estimating biodiversity across the tree of life on Mount Everest’s southern flank with environmental DNA](https://www.cell.com/iscience/fulltext/S2589-0042(22)01120-8#relatedArticles). iScience.
+   - WCS press release about the project [here](https://newsroom.wcs.org/News-Releases/articleType/ArticleView/articleId/17900/Solving-Everests-Wildlife-Mysteries-with-eDNA.aspx)
+
 ## On the evolution and diversification of hummingbirds
 
 ![](/assets/img/jacobin.jpg)
