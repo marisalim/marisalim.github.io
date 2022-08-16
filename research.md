@@ -23,7 +23,7 @@ We also used metabarcoding and whole genome shotgun sequencing to examine both t
 
 *Relevant media:*
 
-- **Lim, M.C.W.**, A. Seimon, B. Nightingale, C.C.Y. Xu, S.R.P. Halloy, A.J. Solon, N.B. Dragone, S.K. Schmidt, A. Tait, S. Elvin, A.C. Elmore, and T.A. Seimon. 2022. [Estimating biodiversity across the tree of life on Mount Everest’s southern flank with environmental DNA](https://www.cell.com/iscience/fulltext/S2589-0042(22)01120-8#relatedArticles). iScience.
+- **Lim, M.C.W.**, A. Seimon, B. Nightingale, C.C.Y. Xu, S.R.P. Halloy, A.J. Solon, N.B. Dragone, S.K. Schmidt, A. Tait, S. Elvin, A.C. Elmore, and T.A. Seimon. 2022. [Estimating biodiversity across the tree of life on Mount Everest’s southern flank with environmental DNA]([https://www.cell.com/iscience/fulltext/S2589-0042(22)01120-8#relatedArticles](https://doi.org/10.1016/j.isci.2022.104848). iScience.
    - WCS press release about the project [here](https://newsroom.wcs.org/News-Releases/articleType/ArticleView/articleId/17900/Solving-Everests-Wildlife-Mysteries-with-eDNA.aspx)
 
 ## On the evolution and diversification of hummingbirds
