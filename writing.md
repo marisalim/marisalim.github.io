@@ -7,13 +7,10 @@ title: Writing
 
 ## Publications
 
+1. Parigi, A.\*, **M.C.W. Lim**\*, S. Canchi\*, J. Sanchez, J. Walter, R.M. Harris, A. Charbonneau, and C.T. Brown. 2022. [A virtual training module for introducing the use of Amazon Web Services](https://jose.theoj.org/papers/10.21105/jose.00167). Journal of Open Source Education. *co-first authors
 1. **Lim, M.C.W.**, A. Seimon, B. Nightingale, C.C.Y. Xu, S.R.P. Halloy, A.J. Solon, N.B. Dragone, S.K. Schmidt, A. Tait, S. Elvin, A.C. Elmore, and T.A. Seimon. 2022. [Estimating biodiversity across the tree of life on Mount Everest’s southern flank with environmental DNA](https://doi.org/10.1016/j.isci.2022.104848). iScience.
 1. Pomerantz, A., K. Sahlin, N. Vasiljevic, A. Seah, **M.C.W. Lim**, E. Humble, S. Kennedy, H. Krehenwinkel, S. Winter, R. Ogden and S. Prost. 2022. [Rapid in situ identification of biological specimens via DNA amplicon sequencing using miniaturized laboratory equipment](https://www.nature.com/articles/s41596-022-00682-x). Nature Protocols.
-1. **Lim, M.C.W.**\*, A. Parigi\*, S. Canchi\*, J. Sanchez, J. Walter, 
-A. Charbonneau, and C.T. Brown.  2021. [Virtual training on virtual 
-environments: an online open-source introduction to 
-conda](https://doi.org/10.21105/jose.00130). Journal of Open Source 
-Education. *co-first authors
+1. **Lim, M.C.W.**\*, A. Parigi\*, S. Canchi\*, J. Sanchez, J. Walter, A. Charbonneau, and C.T. Brown. 2021. [Virtual training on virtual environments: an online open-source introduction to conda](https://doi.org/10.21105/jose.00130). Journal of Open Source Education. *co-first authors
 1. Potter, J.H.T., R. Drinkwater, K.T.J. Davies, N. Nesi, **M.C.W. Lim**, L.R. Yohe, H. Chi, X. Zhang, I. Levantis, B.K. Lim, C.C. Witt, G. Tsagkogeorga, M. dos Reis, Y. Liu, W. Furey, M.J. Whitley, D. Aksentijevic, L.M. Dávalos, S.J. Rossiter. 2021. [Nectar-feeding bats and birds show parallel molecular adaptations in sugar metabolism enzymes](https://www.sciencedirect.com/science/article/pii/S0960982221011222?dgcid=coauthor). Current Biology.
 1. Vasiljevic, N., **M.C.W. Lim**, E. Humble, A. Seah, A. Kratzer, N. Morf, S. Prost, and R. Ogden. 2021. [Developmental validation of Oxford Nanopore Technology MinION sequence data and the NGSpeciesID bioinformatic pipeline for forensic genetic species identification](https://doi.org/10.1016/j.fsigen.2021.102493). Forensic Science International: Genetics.
 1. **Lim, M.C.W.**, K. Bi, C.C. Witt, C.H. Graham, and L.M. Dávalos. 2021. [Pervasive genomic signatures of local adaptation to altitude across highland specialist Andean hummingbird populations](https://doi.org/10.1093/jhered/esab008). Journal of Heredity.
