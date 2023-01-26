@@ -25,6 +25,7 @@ We also used metabarcoding and whole genome shotgun sequencing to examine both t
 
 - **Lim, M.C.W.**, A. Seimon, B. Nightingale, C.C.Y. Xu, S.R.P. Halloy, A.J. Solon, N.B. Dragone, S.K. Schmidt, A. Tait, S. Elvin, A.C. Elmore, and T.A. Seimon. 2022. [Estimating biodiversity across the tree of life on Mount Everest’s southern flank with environmental DNA](https://doi.org/10.1016/j.isci.2022.104848). iScience.
    - WCS press release about the project [here](https://newsroom.wcs.org/News-Releases/articleType/ArticleView/articleId/17900/Solving-Everests-Wildlife-Mysteries-with-eDNA.aspx)
+- Seimon, T.A., **M.C.W. Lim**, B. Nightingale, S. Elvin, A. Elmore, and A. Seimon. 2022. [First report of Pallas's cat in Sagarmatha National Park - Mount Everest Region, Nepal](http://www.catsg.org/index.php?id=175). CATnews.
 
 ## On the evolution and diversification of hummingbirds
 
