@@ -7,6 +7,7 @@ title: Writing
 
 ## Publications
 
+1. Barreto, E., **M.C.W. Lim**, D. Rojas, L.M. Dávalos, R.O. Wüest, A. Machac, and C.H. Graham. 2023. [Morphology and niche evolution influence hummingbird speciation rates](https://royalsocietypublishing.org/doi/10.1098/rspb.2022.1793). Proceedings of the Royal Society B: Biological Sciences.
 1. Seimon, T.A., **M.C.W. Lim**, B. Nightingale, S. Elvin, A. Elmore, and A. Seimon. 2022. [First report of Pallas's cat in Sagarmatha National Park - Mount Everest Region, Nepal](http://www.catsg.org/index.php?id=175). CATnews.
 2. Charbonneau, A.L., A. Brady, K. Czajkowski, J. Aluvathingal, S. Canchi, R. Carter, K. Chard, D.J.B. Clarke, J. Crabtree, H.H. Creasy, M. D'Arcy, V. Felix, M. Giglio, A. Gingrich, R.M. Harris, T.K. Hodges, O. Ifeonu, M. Jeon, E. Kropiwnicki, **M.C.W. Lim**, R.L. Liming, J. Lumian, A.A. Mahurkar, M. Mandal, J.B. Munro, S. Nadendla, R. Richter, C. Romano, P. Rocca-Serra, M. Schor, R.E. Schuler, H. Tangmunarunkit, A. Waldrop, C. Williams, K. Word, S. Sansone, A. Ma'ayan, R. Wagner, I. Foster, C. Kesselman, C.T. Brown, and O. White. 2022. [Making Common Fund data more findable: catalyzing a data ecosystem](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giac105/6835135). GigaScience.
 3. Parigi, A.\*, **M.C.W. Lim**\*, S. Canchi\*, J. Sanchez, J. Walter, R.M. Harris, A. Charbonneau, and C.T. Brown. 2022. [A virtual training module for introducing the use of Amazon Web Services](https://jose.theoj.org/papers/10.21105/jose.00167). Journal of Open Source Education. *co-first authors
