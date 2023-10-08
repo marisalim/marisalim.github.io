@@ -5,7 +5,7 @@ title: About me
 
 <img height="140" width="190" src="/assets/img/avatar.jpg" style="float: right;">
 
-Hello! I am currently a Bioinformatics Scientific Writer at [10x 
+Hello! I am currently a Senior Scientific Writer in Bioinformatics at [10x 
 Genomics](https://www.10xgenomics.com/). My research interests have 
 covered a range of topics from conservation genetics and high-elevation adaptation to species identification tool optimization and science communication. 
 
